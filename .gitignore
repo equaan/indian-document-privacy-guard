@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.venv312/
+venv/
+
+# Editor/OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# App runtime/generated artifacts
+output/*
+!output/.gitkeep
+
+data/*
+!data/.gitkeep
+
+# Logs and local state
+*.log
+*.sqlite
+*.db
+*.db-journal
+
+# Build/distribution
+build/
+dist/
+*.egg-info/
+
+*.pdf
+*.txt
+
+# Safe fictional samples included with the project
+!samples/
+!samples/college_admission_form.txt
+!samples/scholarship_application.txt
+!samples/dummy_admission_form.txt

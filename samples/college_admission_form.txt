@@ -1,0 +1,9 @@
+COLLEGE ADMISSION FORM - DEMO DATA ONLY
+
+Student Name: Rahul Sharma
+Email: rahul.sharma@example.com
+Mobile: +91 9876543210
+PAN: ABCDE1234F
+UPI ID: rahul@okaxis
+Student ID: CSE-2026-1042
+College: ABC Engineering College
